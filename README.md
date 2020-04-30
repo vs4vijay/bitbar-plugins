@@ -1,6 +1,10 @@
 # bitbar-plugins
 
-Set of BitBar Plugins
+Collection of BitBar Plugins
+
+BitBar: 
+- https://github.com/matryer/bitbar
+- https://getbitbar.com/
 
 ---
 

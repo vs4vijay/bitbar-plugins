@@ -6,6 +6,7 @@
 # <bitbar.author.github>vs4vijay</bitbar.author.github>
 # <bitbar.desc>Open firefox with list of profiles</bitbar.desc>
 # <bitbar.dependencies>Bash</bitbar.dependencies>
+# <bitbar.abouturl>https://github.com/vs4vijay/bitbar-plugins</bitbar.abouturl>
 
 name="FF"
 executable="/Applications/Firefox.app/Contents/MacOS/firefox"
@@ -43,6 +44,9 @@ function show_menu() {
 
 	echo "Manage"
 	echo "-- Open ProfileManager | bash=${executable} param1=-ProfileManager terminal=false"
+
+
+	echo "Refresh | refresh=true"
 }
 
 function open_profile() {

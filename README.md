@@ -13,3 +13,17 @@ BitBar:
 Open firefox with any profile in seconds
 
 ![Firefox Profiles](_screenshots/firefox_profiles.png) 
+
+---
+
+### Batman Icon
+
+Show various batman logos (why not?)
+
+![Batman](_screenshots/batman.png) 
+
+---
+
+Image Credits
+
+- https://iconfinder.com

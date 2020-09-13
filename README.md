@@ -1,6 +1,6 @@
 # bitbar-plugins
 
-Collection of BitBar Plugins
+Collection of BitBar Plugins (ELI5: `run script or program in your Mac OS X Menu Bar`)
 
 BitBar: 
 - https://github.com/matryer/bitbar
@@ -10,7 +10,7 @@ BitBar:
 
 ### Firefox Profiles
 
-Open firefox with any profile in seconds
+Open firefox with any profile in seconds from Mac Menu
 
 ![Firefox Profiles](_screenshots/firefox_profiles.png) 
 
